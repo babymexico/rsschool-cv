@@ -13,3 +13,23 @@ Twilio Hackathon
 ●English
 
 Estimated English level is C1
+
+●Skills
+
+🔹Social Skills
+
+🔹Agile/Scrum
+
+🔹HTML5/CSS3
+
+🔹JS/REACT
+
+🔹GIT/FIGMA/CANVA
+
+🔹LEARNING C++
+
+●Contact
+
+Yauheni Pleshakou
+
+Email: duke2303@mail.ru
