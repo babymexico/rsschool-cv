@@ -33,3 +33,15 @@ Estimated English level is C1
 Yauheni Pleshakou
 
 Email: duke2303@mail.ru
+
+●Goals
+
+Increase skills in HTML, CSS, JS
+
+Learn New JS frameworks
+
+Improve social skills and English
+
+●Projects
+
+https://github.com/babymexico/Hackathon-project-working
